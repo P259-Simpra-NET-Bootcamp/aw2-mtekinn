@@ -1,6 +1,6 @@
 Bu proje, katmanlı mimari tasarımını kullanan bir .NET Core projesidir. Proje henüz tamamlanmamıştır ve veritabanı bağlantısı ve bazı işlevler konusunda hatalar ve eksikler bulunmaktadır.
 
-#Proje Yapısı
+Proje Yapısı
 Proje 4 katmana ayrılmıştır:
 
 StaffManagement.DataAccess: Veri depolama ve almayı yönetir.
