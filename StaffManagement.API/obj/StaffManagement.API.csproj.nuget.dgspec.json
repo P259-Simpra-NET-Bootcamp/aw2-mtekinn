@@ -1,0 +1,290 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mtekin/RiderProjects/Odev/StaffManagement.API/StaffManagement.API.csproj": {}
+  },
+  "projects": {
+    "/Users/mtekin/RiderProjects/Odev/StaffManagement.API/StaffManagement.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mtekin/RiderProjects/Odev/StaffManagement.API/StaffManagement.API.csproj",
+        "projectName": "StaffManagement.API",
+        "projectPath": "/Users/mtekin/RiderProjects/Odev/StaffManagement.API/StaffManagement.API.csproj",
+        "packagesPath": "/Users/mtekin/.nuget/packages/",
+        "outputPath": "/Users/mtekin/RiderProjects/Odev/StaffManagement.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mtekin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/sdk/7.0.302/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/mtekin/RiderProjects/Odev/StaffManagement.BusinessLogic/StaffManagement.BusinessLogic.csproj": {
+                "projectPath": "/Users/mtekin/RiderProjects/Odev/StaffManagement.BusinessLogic/StaffManagement.BusinessLogic.csproj"
+              },
+              "/Users/mtekin/RiderProjects/Odev/StaffManagement.Core/StaffManagement.Core.csproj": {
+                "projectPath": "/Users/mtekin/RiderProjects/Odev/StaffManagement.Core/StaffManagement.Core.csproj"
+              },
+              "/Users/mtekin/RiderProjects/Odev/StaffManagement.DataAccess/StaffManagement.DataAccess.csproj": {
+                "projectPath": "/Users/mtekin/RiderProjects/Odev/StaffManagement.DataAccess/StaffManagement.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mtekin/RiderProjects/Odev/StaffManagement.BusinessLogic/StaffManagement.BusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mtekin/RiderProjects/Odev/StaffManagement.BusinessLogic/StaffManagement.BusinessLogic.csproj",
+        "projectName": "StaffManagement.BusinessLogic",
+        "projectPath": "/Users/mtekin/RiderProjects/Odev/StaffManagement.BusinessLogic/StaffManagement.BusinessLogic.csproj",
+        "packagesPath": "/Users/mtekin/.nuget/packages/",
+        "outputPath": "/Users/mtekin/RiderProjects/Odev/StaffManagement.BusinessLogic/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mtekin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/mtekin/RiderProjects/Odev/StaffManagement.DataAccess/StaffManagement.DataAccess.csproj": {
+                "projectPath": "/Users/mtekin/RiderProjects/Odev/StaffManagement.DataAccess/StaffManagement.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mtekin/RiderProjects/Odev/StaffManagement.Core/StaffManagement.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mtekin/RiderProjects/Odev/StaffManagement.Core/StaffManagement.Core.csproj",
+        "projectName": "StaffManagement.Core",
+        "projectPath": "/Users/mtekin/RiderProjects/Odev/StaffManagement.Core/StaffManagement.Core.csproj",
+        "packagesPath": "/Users/mtekin/.nuget/packages/",
+        "outputPath": "/Users/mtekin/RiderProjects/Odev/StaffManagement.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mtekin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mtekin/RiderProjects/Odev/StaffManagement.DataAccess/StaffManagement.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mtekin/RiderProjects/Odev/StaffManagement.DataAccess/StaffManagement.DataAccess.csproj",
+        "projectName": "StaffManagement.DataAccess",
+        "projectPath": "/Users/mtekin/RiderProjects/Odev/StaffManagement.DataAccess/StaffManagement.DataAccess.csproj",
+        "packagesPath": "/Users/mtekin/.nuget/packages/",
+        "outputPath": "/Users/mtekin/RiderProjects/Odev/StaffManagement.DataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mtekin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/mtekin/RiderProjects/Odev/StaffManagement.Core/StaffManagement.Core.csproj": {
+                "projectPath": "/Users/mtekin/RiderProjects/Odev/StaffManagement.Core/StaffManagement.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

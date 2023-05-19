@@ -1,0 +1,12 @@
+/Users/mtekin/RiderProjects/Odev/StaffManagement.Core/bin/Debug/net7.0/StaffManagement.Core.deps.json
+/Users/mtekin/RiderProjects/Odev/StaffManagement.Core/bin/Debug/net7.0/StaffManagement.Core.dll
+/Users/mtekin/RiderProjects/Odev/StaffManagement.Core/bin/Debug/net7.0/StaffManagement.Core.pdb
+/Users/mtekin/RiderProjects/Odev/StaffManagement.Core/obj/Debug/net7.0/StaffManagement.Core.csproj.AssemblyReference.cache
+/Users/mtekin/RiderProjects/Odev/StaffManagement.Core/obj/Debug/net7.0/StaffManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mtekin/RiderProjects/Odev/StaffManagement.Core/obj/Debug/net7.0/StaffManagement.Core.AssemblyInfoInputs.cache
+/Users/mtekin/RiderProjects/Odev/StaffManagement.Core/obj/Debug/net7.0/StaffManagement.Core.AssemblyInfo.cs
+/Users/mtekin/RiderProjects/Odev/StaffManagement.Core/obj/Debug/net7.0/StaffManagement.Core.csproj.CoreCompileInputs.cache
+/Users/mtekin/RiderProjects/Odev/StaffManagement.Core/obj/Debug/net7.0/StaffManagement.Core.dll
+/Users/mtekin/RiderProjects/Odev/StaffManagement.Core/obj/Debug/net7.0/refint/StaffManagement.Core.dll
+/Users/mtekin/RiderProjects/Odev/StaffManagement.Core/obj/Debug/net7.0/StaffManagement.Core.pdb
+/Users/mtekin/RiderProjects/Odev/StaffManagement.Core/obj/Debug/net7.0/ref/StaffManagement.Core.dll

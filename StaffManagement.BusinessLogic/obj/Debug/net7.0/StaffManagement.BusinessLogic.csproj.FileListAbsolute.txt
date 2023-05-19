@@ -1,0 +1,17 @@
+/Users/mtekin/RiderProjects/Odev/StaffManagement.BusinessLogic/bin/Debug/net7.0/StaffManagement.BusinessLogic.deps.json
+/Users/mtekin/RiderProjects/Odev/StaffManagement.BusinessLogic/bin/Debug/net7.0/StaffManagement.BusinessLogic.dll
+/Users/mtekin/RiderProjects/Odev/StaffManagement.BusinessLogic/bin/Debug/net7.0/StaffManagement.BusinessLogic.pdb
+/Users/mtekin/RiderProjects/Odev/StaffManagement.BusinessLogic/bin/Debug/net7.0/StaffManagement.Core.dll
+/Users/mtekin/RiderProjects/Odev/StaffManagement.BusinessLogic/bin/Debug/net7.0/StaffManagement.DataAccess.dll
+/Users/mtekin/RiderProjects/Odev/StaffManagement.BusinessLogic/bin/Debug/net7.0/StaffManagement.DataAccess.pdb
+/Users/mtekin/RiderProjects/Odev/StaffManagement.BusinessLogic/bin/Debug/net7.0/StaffManagement.Core.pdb
+/Users/mtekin/RiderProjects/Odev/StaffManagement.BusinessLogic/obj/Debug/net7.0/StaffManagement.BusinessLogic.csproj.AssemblyReference.cache
+/Users/mtekin/RiderProjects/Odev/StaffManagement.BusinessLogic/obj/Debug/net7.0/StaffManagement.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mtekin/RiderProjects/Odev/StaffManagement.BusinessLogic/obj/Debug/net7.0/StaffManagement.BusinessLogic.AssemblyInfoInputs.cache
+/Users/mtekin/RiderProjects/Odev/StaffManagement.BusinessLogic/obj/Debug/net7.0/StaffManagement.BusinessLogic.AssemblyInfo.cs
+/Users/mtekin/RiderProjects/Odev/StaffManagement.BusinessLogic/obj/Debug/net7.0/StaffManagement.BusinessLogic.csproj.CoreCompileInputs.cache
+/Users/mtekin/RiderProjects/Odev/StaffManagement.BusinessLogic/obj/Debug/net7.0/StaffManagement.BusinessLogic.csproj.CopyComplete
+/Users/mtekin/RiderProjects/Odev/StaffManagement.BusinessLogic/obj/Debug/net7.0/StaffManagement.BusinessLogic.dll
+/Users/mtekin/RiderProjects/Odev/StaffManagement.BusinessLogic/obj/Debug/net7.0/refint/StaffManagement.BusinessLogic.dll
+/Users/mtekin/RiderProjects/Odev/StaffManagement.BusinessLogic/obj/Debug/net7.0/StaffManagement.BusinessLogic.pdb
+/Users/mtekin/RiderProjects/Odev/StaffManagement.BusinessLogic/obj/Debug/net7.0/ref/StaffManagement.BusinessLogic.dll
