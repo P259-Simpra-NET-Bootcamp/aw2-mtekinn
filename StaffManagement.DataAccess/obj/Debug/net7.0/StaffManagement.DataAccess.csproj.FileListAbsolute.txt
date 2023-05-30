@@ -1,0 +1,15 @@
+/Users/mtekin/RiderProjects/Odev/StaffManagement.DataAccess/bin/Debug/net7.0/StaffManagement.DataAccess.deps.json
+/Users/mtekin/RiderProjects/Odev/StaffManagement.DataAccess/bin/Debug/net7.0/StaffManagement.DataAccess.dll
+/Users/mtekin/RiderProjects/Odev/StaffManagement.DataAccess/bin/Debug/net7.0/StaffManagement.DataAccess.pdb
+/Users/mtekin/RiderProjects/Odev/StaffManagement.DataAccess/bin/Debug/net7.0/StaffManagement.Core.dll
+/Users/mtekin/RiderProjects/Odev/StaffManagement.DataAccess/bin/Debug/net7.0/StaffManagement.Core.pdb
+/Users/mtekin/RiderProjects/Odev/StaffManagement.DataAccess/obj/Debug/net7.0/StaffManagement.DataAccess.csproj.AssemblyReference.cache
+/Users/mtekin/RiderProjects/Odev/StaffManagement.DataAccess/obj/Debug/net7.0/StaffManagement.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mtekin/RiderProjects/Odev/StaffManagement.DataAccess/obj/Debug/net7.0/StaffManagement.DataAccess.AssemblyInfoInputs.cache
+/Users/mtekin/RiderProjects/Odev/StaffManagement.DataAccess/obj/Debug/net7.0/StaffManagement.DataAccess.AssemblyInfo.cs
+/Users/mtekin/RiderProjects/Odev/StaffManagement.DataAccess/obj/Debug/net7.0/StaffManagement.DataAccess.csproj.CoreCompileInputs.cache
+/Users/mtekin/RiderProjects/Odev/StaffManagement.DataAccess/obj/Debug/net7.0/StaffManagement.DataAccess.csproj.CopyComplete
+/Users/mtekin/RiderProjects/Odev/StaffManagement.DataAccess/obj/Debug/net7.0/StaffManagement.DataAccess.dll
+/Users/mtekin/RiderProjects/Odev/StaffManagement.DataAccess/obj/Debug/net7.0/refint/StaffManagement.DataAccess.dll
+/Users/mtekin/RiderProjects/Odev/StaffManagement.DataAccess/obj/Debug/net7.0/StaffManagement.DataAccess.pdb
+/Users/mtekin/RiderProjects/Odev/StaffManagement.DataAccess/obj/Debug/net7.0/ref/StaffManagement.DataAccess.dll
